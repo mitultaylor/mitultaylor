@@ -1,4 +1,3 @@
-![Logo](logo.png)
 # Mitul Tailor | Infrastructure Stewardship & Operational Sovereignty
 **Regional Site Authority | VP of IT Infrastructure & Operations**
 
